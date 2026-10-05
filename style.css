@@ -380,6 +380,19 @@ footer a:hover {
     color: #555555;
     line-height: 1.7;
 }
+.ebook {
+    max-width: 1280px;
+    margin: 30px auto;
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.ebook img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 15px;
+}
 @media (max-width: 768px) {
     body {
         padding: 20px;
